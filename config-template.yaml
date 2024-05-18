@@ -1,0 +1,8 @@
+slack:
+  token: "<your_slack_token>"
+  channels:
+    any-channel: "any-channel-id"
+    any-channel2: "any-channel-id2"
+
+open-ai:
+  api-key: "<your_openai_api_key>"
