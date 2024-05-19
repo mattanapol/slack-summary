@@ -24,3 +24,7 @@ open-ai:
   api-key: "<your_openai_api_key>"
 ```
 
+## Run streamlit demo
+```bash
+streamlit run app.py
+```

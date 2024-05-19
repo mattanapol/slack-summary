@@ -164,6 +164,7 @@ bin
 include
 lib
 share
+pyvenv.cfg
 
 # Personal configurations
 config.yaml

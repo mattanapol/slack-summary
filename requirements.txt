@@ -3,3 +3,4 @@ slack_sdk
 langchain
 langchain-community
 langchain-openai
+streamlit
