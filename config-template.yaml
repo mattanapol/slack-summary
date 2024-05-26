@@ -6,3 +6,8 @@ slack:
 
 open-ai:
   api-key: "<your_openai_api_key>"
+
+my:
+  names:
+    - your-nick-name
+    - your-nick-name-2

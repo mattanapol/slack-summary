@@ -1,6 +1,7 @@
 ipykernel
 slack_sdk
 langchain
+langgraph
 langchain-community
 langchain-openai
 streamlit
